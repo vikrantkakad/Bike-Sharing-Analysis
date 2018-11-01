@@ -1,10 +1,8 @@
 ---
 title: "Bike Sharing Analysis"
 author: 'Vikrant Kakad'
-output:
-  html_document:
-    toc: yes
-    toc_depth: 3
+output: github_document
+
 ---
 
 ```{r}
