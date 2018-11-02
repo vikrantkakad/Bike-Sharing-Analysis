@@ -8,10 +8,6 @@ library(tseries)
 library(randomForest)
 ```
 
-    ## randomForest 4.6-14
-
-    ## Type rfNews() to see new features/changes/bug fixes.
-
 ``` r
 library(neuralnet)
 ```
