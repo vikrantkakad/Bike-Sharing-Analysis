@@ -6,9 +6,6 @@ Vikrant Kakad
 library(forecast)
 library(tseries)
 library(randomForest)
-```
-
-``` r
 library(neuralnet)
 ```
 
